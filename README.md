@@ -1,16 +1,6 @@
-# covid_tracker_app
+# Covid_tracker_app
 
-A new Flutter project.
+This app includes Splash Screen and it tracks world wide statitics of Coivd 19 effected and recovered people . Here you can see specific country statictics also
 
-## Getting Started
+# Api  is used to fetch data 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
